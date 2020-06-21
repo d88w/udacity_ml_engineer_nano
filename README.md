@@ -2,3 +2,4 @@
 
 0. Software fundamentals
   - Some basic items on optimizing code and OOP syntax
+  - Creating Python packages
