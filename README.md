@@ -6,7 +6,7 @@ FOLDER - 0 Software Fundamentals
 
 FOLDER - 1 Machine Learning in SageMaker
   - Deployment of ML models in Amazon SageMaker
-  - #1.01_Boston Housing - XGBoost - High Level#
+  #####- 1.01_Boston Housing - XGBoost - High Level
     - Building a model using Batch Transform in SageMaker - use the Python SDK to interact with SageMaker
   - 1.02_IMDB Sentiment Analysis - XGBoost 
     - Building a model using Batch Transform in SageMaker - use the Python SDK to interact with SageMaker
