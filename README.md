@@ -12,6 +12,5 @@ FOLDER - 1 Machine Learning in SageMaker
     - Using Batch Transform in SageMaker - use the Python SDK to interact with SageMaker
   - 1.03_Boston Housing - XGBoost - Low Level
     - Low level approach where we describe different tasks we want SageMaker to perform
-    - The high level approach makes developing new models very straightforward, requiring very little code. 
-    - The reason this can be done is that certain decisions have been made for you. 
+    - The high level approach makes developing new models very straightforward, requiring very little code. The reason this can be done is that certain decisions have been made for you. 
     - The low level approach allows you to be far more particular in how you want the various tasks executed, which is good for when you want to do something a little more complicated.
