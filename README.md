@@ -19,6 +19,7 @@ FOLDER - 1 Machine Learning in SageMaker
     - Building and Deploying simple model using the Python SDK to interact with SageMaker
   - 1.05_Boston Housing - XGBoost (Deploy) - Low Level
     - Building and Deploying simple model with the low level approach
-    - The low level approach allows you to be far more particular in how you want the various tasks executed, which is good for when you want to do something a little more complicated.
+    - Using the low level approach to deploy our model requires us to create an endpoint, which will be used to send data to our model and to get inference results.
+    - In order to create an endpoint in SageMaker, we first need to describe an endpoint configuration. 
     
     
