@@ -21,5 +21,7 @@ FOLDER - 1 Machine Learning in SageMaker
     - Building and Deploying simple model with the low level approach
     - Using the low level approach to deploy our model requires us to create an endpoint, which will be used to send data to our model and to get inference results.
     - In order to create an endpoint in SageMaker, we first need to describe an endpoint configuration. 
-    
+  - 1.06_IMDB Sentiment Analysis - XGBoost - Web App
+    - Deploy the sentiment model via a web app that
+    - Using Amazon Lambda and API Gateway to solve: a) the authentication issue, b) bag of words encoding expected by model vs the block of text in the web app
     
