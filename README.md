@@ -24,5 +24,7 @@ FOLDER - 1 Machine Learning in SageMaker
   - 1.06_IMDB Sentiment Analysis - XGBoost - Web App
     - Deploy the sentiment model via a web app that
     - Using Amazon Lambda and API Gateway to solve: a) the authentication issue, b) bag of words encoding expected by model vs the block of text in the web app
-    - Flow is as following: App <<-->> API & Lamda <<-->> Model 
+    - Flow is as following: App <<-->> API & Lamda <<-->> Model
+    - App finished product: https://derekspublicbucket.s3.us-east-2.amazonaws.com/index_sentiment.html
+    - This app only works when I turn on the model in AWS
     
