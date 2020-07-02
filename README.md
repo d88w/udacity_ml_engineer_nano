@@ -28,3 +28,4 @@ FOLDER - 1 Machine Learning in SageMaker
     - App finished product: https://derekspublicbucket.s3.us-east-2.amazonaws.com/index_sentiment.html
     - This app only works when I turn on the model & endpoint in AWS Sagemaker
     
+    
